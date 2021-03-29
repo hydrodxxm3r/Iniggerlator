@@ -3,9 +3,9 @@
 	"my_id": 323588703,
 	"buy_slaves": 1,
 	"buy_fetters": 1,
-	"upgrade_slaves": 1,
+	"upgrade_slaves": 0,
 	"min_price": 40,
-	"max_price": 26151,
+	"max_price": 100,
 	"job": ["Nigger", "nigga", "zig", "обьяна", "нигга", "негер", "заткниль", "раб", "кремлебот", "Соловьев"],
 	"delay": 4.5
 }
