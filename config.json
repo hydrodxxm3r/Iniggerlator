@@ -2,7 +2,7 @@
 	"authorization": "vk_access_token_settings=friends,status&vk_app_id=7794757&vk_are_notifications_enabled=0&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=catalog_recent&vk_ts=1617111985&vk_user_id=323588703&sign=tpr7u27PmoGdFTGm9i09tZLmFpzvNBG-ptboLdXdBYA",
 	"my_id": 323588703,
 	"buy_slaves": 1,
-	"buy_fetters": 1,
+	"buy_fetters": ,
 	"upgrade_slaves": 1,
 	"min_price": 500,
 	"max_price": 32000,
